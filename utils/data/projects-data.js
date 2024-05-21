@@ -8,7 +8,7 @@ export const projectsData = [
         id: 1,
         name: 'Nokia Digital Automation Cloud',
         description: "Worked on E2E industrial grade connectivity & digitalization platform connectivity application. Developed features for migration from Role Based Access Control to Attribute Based Access Control and partner portal migration to customer portal.Automating the API implementation using GRPC gateway. Worked on UI features of NDAC customer portal application",
-        tools: ['GOlang', 'MongoDB', 'TypeScript', 'JavaScript', 'CSS', 'HTML', 'Angular JS', 'Cassandra', 'Nginx','JWT'],
+        tools: ['GoLang', 'MongoDB', 'TypeScript', 'JavaScript', 'CSS', 'HTML','React JS','Angular JS','Redux', 'Cassandra', 'Nginx','JWT'],
         role: 'Full Stack Developer',
         code: '',
         demo: '',

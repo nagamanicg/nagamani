@@ -19,7 +19,7 @@ export const experiences = [
   },
   {
     id: 4,
-    title: "Trainee Engineer",
+    title: "Junior Software Developer",
     company: "DEEVIA Software Pvt. Ltd, Bengaluru. India",
     duration: "(Jul 2019 - Oct 2019)"
   }
